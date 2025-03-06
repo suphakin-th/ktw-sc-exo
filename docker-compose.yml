@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  ktw-scraper-api:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./config.json:/app/config.json
+      - ./scraper.log:/app/scraper.log
+    restart: unless-stopped

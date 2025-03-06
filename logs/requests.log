@@ -1,0 +1,95 @@
+2025-03-06 19:46:17,718 - ktw_requests - INFO - Request ID: 20250306194617-6898 | Method: POST | Path: /api/products | IP: 127.0.0.1
+2025-03-06 19:46:17,718 - ktw_requests - INFO - Processing request for 6 SKUs with 6 workers
+2025-03-06 19:46:27,994 - ktw_requests - INFO - Request processed in 10.28 seconds, found 6 products
+2025-03-06 19:46:27,995 - ktw_requests - INFO - Request ID: 20250306194617-6898 | Status: 200 | Size: 902 bytes
+2025-03-06 19:46:27,995 - ktw_requests - INFO - Request ID: 20250306194617-6898 | Processing time: 10.28 seconds
+2025-03-06 20:12:03,773 - ktw_requests - INFO - Request ID: 20250306201203-8436 | Method: POST | Path: /api/products | IP: 127.0.0.1
+2025-03-06 20:12:03,774 - ktw_requests - WARNING - API request missing Authorization header: 127.0.0.1 - /api/products
+2025-03-06 20:12:03,775 - ktw_requests - INFO - Request ID: 20250306201203-8436 | Status: 401 | Size: 69 bytes
+2025-03-06 20:13:30,546 - ktw_requests - INFO - Request ID: 20250306201330-8436 | Method: POST | Path: /api/products | IP: 127.0.0.1
+2025-03-06 20:13:30,546 - ktw_requests - INFO - Processing request for 6 SKUs with 6 workers
+2025-03-06 20:13:41,901 - ktw_requests - INFO - Request processed in 11.36 seconds, found 6 products
+2025-03-06 20:13:41,902 - ktw_requests - INFO - Request ID: 20250306201330-8436 | Status: 200 | Size: 900 bytes
+2025-03-06 20:13:41,903 - ktw_requests - INFO - Request ID: 20250306201330-8436 | Processing time: 11.36 seconds
+2025-03-06 21:08:40,481 - ktw_requests - INFO - Request ID: 20250306210840-8436 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:08:40,482 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:08:54,961 - ktw_requests - INFO - Request for SKU E061-3216 processed in 14.48 seconds
+2025-03-06 21:08:54,962 - ktw_requests - INFO - Request ID: 20250306210840-8436 | Status: 200 | Size: 217 bytes
+2025-03-06 21:08:54,962 - ktw_requests - INFO - Request ID: 20250306210840-8436 | Processing time: 14.48 seconds
+2025-03-06 21:10:52,529 - ktw_requests - INFO - Request ID: 20250306211052-8436 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:10:52,530 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:10:57,042 - ktw_requests - INFO - Request for SKU E061-3216 processed in 4.51 seconds
+2025-03-06 21:10:57,043 - ktw_requests - INFO - Request ID: 20250306211052-8436 | Status: 200 | Size: 216 bytes
+2025-03-06 21:10:57,043 - ktw_requests - INFO - Request ID: 20250306211052-8436 | Processing time: 4.51 seconds
+2025-03-06 21:12:04,277 - ktw_requests - INFO - Request ID: 20250306211204-8436 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:12:04,278 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:12:11,411 - ktw_requests - INFO - Request for SKU E061-3216 processed in 7.13 seconds
+2025-03-06 21:12:11,412 - ktw_requests - INFO - Request ID: 20250306211204-8436 | Status: 200 | Size: 216 bytes
+2025-03-06 21:12:11,412 - ktw_requests - INFO - Request ID: 20250306211204-8436 | Processing time: 7.13 seconds
+2025-03-06 21:12:50,410 - ktw_requests - INFO - Request ID: 20250306211250-2870 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:12:50,410 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:12:59,089 - ktw_requests - INFO - Request for SKU E061-3216 processed in 8.68 seconds
+2025-03-06 21:12:59,090 - ktw_requests - INFO - Request ID: 20250306211250-2870 | Status: 200 | Size: 215 bytes
+2025-03-06 21:12:59,090 - ktw_requests - INFO - Request ID: 20250306211250-2870 | Processing time: 8.68 seconds
+2025-03-06 21:17:41,929 - ktw_requests - INFO - Request ID: 20250306211741-8350 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:17:41,930 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:17:51,515 - ktw_requests - INFO - Request for SKU E061-3216 processed in 9.59 seconds
+2025-03-06 21:17:51,515 - ktw_requests - INFO - Request ID: 20250306211741-8350 | Status: 200 | Size: 264 bytes
+2025-03-06 21:17:51,515 - ktw_requests - INFO - Request ID: 20250306211741-8350 | Processing time: 9.59 seconds
+2025-03-06 21:18:49,521 - ktw_requests - INFO - Request ID: 20250306211849-1665 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:18:49,521 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:18:55,297 - ktw_requests - INFO - Request for SKU E061-3216 processed in 5.78 seconds
+2025-03-06 21:18:55,298 - ktw_requests - INFO - Request ID: 20250306211849-1665 | Status: 200 | Size: 264 bytes
+2025-03-06 21:18:55,298 - ktw_requests - INFO - Request ID: 20250306211849-1665 | Processing time: 5.78 seconds
+2025-03-06 21:19:54,449 - ktw_requests - INFO - Request ID: 20250306211954-6677 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:19:54,450 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:20:01,788 - ktw_requests - INFO - Request for SKU E061-3216 processed in 7.34 seconds
+2025-03-06 21:20:01,789 - ktw_requests - INFO - Request ID: 20250306211954-6677 | Status: 200 | Size: 264 bytes
+2025-03-06 21:20:01,790 - ktw_requests - INFO - Request ID: 20250306211954-6677 | Processing time: 7.34 seconds
+2025-03-06 21:21:01,572 - ktw_requests - INFO - Request ID: 20250306212101-877 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:21:01,572 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:21:08,004 - ktw_requests - INFO - Request for SKU E061-3216 processed in 6.43 seconds
+2025-03-06 21:21:08,005 - ktw_requests - INFO - Request ID: 20250306212101-877 | Status: 200 | Size: 264 bytes
+2025-03-06 21:21:08,005 - ktw_requests - INFO - Request ID: 20250306212101-877 | Processing time: 6.43 seconds
+2025-03-06 21:23:24,602 - ktw_requests - INFO - Request ID: 20250306212324-5920 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:23:24,603 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:23:32,586 - ktw_requests - INFO - Request for SKU E061-3216 processed in 7.98 seconds
+2025-03-06 21:23:32,587 - ktw_requests - INFO - Request ID: 20250306212324-5920 | Status: 200 | Size: 264 bytes
+2025-03-06 21:23:32,588 - ktw_requests - INFO - Request ID: 20250306212324-5920 | Processing time: 7.98 seconds
+2025-03-06 21:24:58,716 - ktw_requests - INFO - Request ID: 20250306212458-9330 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:24:58,716 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:26:42,096 - ktw_requests - INFO - Request ID: 20250306212642-4183 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:26:42,097 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:26:51,479 - ktw_requests - INFO - Request for SKU E061-3216 processed in 9.38 seconds
+2025-03-06 21:26:51,480 - ktw_requests - INFO - Request ID: 20250306212642-4183 | Status: 200 | Size: 264 bytes
+2025-03-06 21:26:51,480 - ktw_requests - INFO - Request ID: 20250306212642-4183 | Processing time: 9.38 seconds
+2025-03-06 21:29:14,803 - ktw_requests - INFO - Request ID: 20250306212914-7185 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:29:14,803 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:29:23,254 - ktw_requests - INFO - Request for SKU E061-3216 processed in 8.45 seconds
+2025-03-06 21:29:23,255 - ktw_requests - INFO - Request ID: 20250306212914-7185 | Status: 200 | Size: 198 bytes
+2025-03-06 21:29:23,255 - ktw_requests - INFO - Request ID: 20250306212914-7185 | Processing time: 8.45 seconds
+2025-03-06 21:29:36,878 - ktw_requests - INFO - Request ID: 20250306212936-7185 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:29:36,878 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:29:44,844 - ktw_requests - INFO - Request for SKU E061-3216 processed in 7.97 seconds
+2025-03-06 21:29:44,844 - ktw_requests - INFO - Request ID: 20250306212936-7185 | Status: 200 | Size: 197 bytes
+2025-03-06 21:29:44,845 - ktw_requests - INFO - Request ID: 20250306212936-7185 | Processing time: 7.97 seconds
+2025-03-06 21:30:19,165 - ktw_requests - INFO - Request ID: 20250306213019-7185 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:30:19,166 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:30:28,048 - ktw_requests - INFO - Request for SKU E061-3216 processed in 8.88 seconds
+2025-03-06 21:30:28,049 - ktw_requests - INFO - Request ID: 20250306213019-7185 | Status: 200 | Size: 198 bytes
+2025-03-06 21:30:28,049 - ktw_requests - INFO - Request ID: 20250306213019-7185 | Processing time: 8.88 seconds
+2025-03-06 21:30:44,223 - ktw_requests - INFO - Request ID: 20250306213044-1838 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:30:44,223 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:30:49,789 - ktw_requests - INFO - Request for SKU E061-3216 processed in 5.57 seconds
+2025-03-06 21:30:49,790 - ktw_requests - INFO - Request ID: 20250306213044-1838 | Status: 200 | Size: 197 bytes
+2025-03-06 21:30:49,790 - ktw_requests - INFO - Request ID: 20250306213044-1838 | Processing time: 5.57 seconds
+2025-03-06 21:36:40,645 - ktw_requests - INFO - Request ID: 20250306213640-847 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:36:40,645 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:36:46,665 - ktw_requests - INFO - Request for SKU E061-3216 processed in 6.02 seconds
+2025-03-06 21:36:46,665 - ktw_requests - INFO - Request ID: 20250306213640-847 | Status: 200 | Size: 262 bytes
+2025-03-06 21:36:46,665 - ktw_requests - INFO - Request ID: 20250306213640-847 | Processing time: 6.02 seconds
+2025-03-06 21:37:20,433 - ktw_requests - INFO - Request ID: 20250306213720-2400 | Method: GET | Path: /api/product/E061-3216 | IP: 127.0.0.1
+2025-03-06 21:37:20,433 - ktw_requests - INFO - Processing request for SKU: E061-3216
+2025-03-06 21:37:27,687 - ktw_requests - INFO - Request for SKU E061-3216 processed in 7.25 seconds
+2025-03-06 21:37:27,687 - ktw_requests - INFO - Request ID: 20250306213720-2400 | Status: 200 | Size: 263 bytes
+2025-03-06 21:37:27,688 - ktw_requests - INFO - Request ID: 20250306213720-2400 | Processing time: 7.26 seconds

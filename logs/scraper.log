@@ -1,0 +1,118 @@
+2025-03-06 19:45:55,985 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 19:46:07,436 - ktw_scraper - ERROR - Verify login error: 'str' object has no attribute 'path'
+2025-03-06 19:46:22,848 - ktw_scraper - INFO - Checking stock for SKU: D011-1400
+2025-03-06 19:46:22,849 - ktw_scraper - INFO - Checking stock for SKU: B131-0004
+2025-03-06 19:46:22,849 - ktw_scraper - INFO - Checking stock for SKU: T441-18457
+2025-03-06 19:46:22,851 - ktw_scraper - INFO - Checking stock for SKU: E061-4685
+2025-03-06 19:46:22,852 - ktw_scraper - INFO - Checking stock for SKU: T441-18457
+2025-03-06 19:46:22,852 - ktw_scraper - INFO - Checking stock for SKU: F131-46544
+2025-03-06 19:46:24,261 - ktw_scraper - INFO - Fetching product data for SKU D011-1400 from search page
+2025-03-06 19:46:25,108 - ktw_scraper - INFO - Fetching product data for SKU T441-18457 from search page
+2025-03-06 19:46:25,158 - ktw_scraper - INFO - Fetching product data for SKU E061-4685 from search page
+2025-03-06 19:46:25,282 - ktw_scraper - INFO - Fetching product data for SKU B131-0004 from search page
+2025-03-06 19:46:25,294 - ktw_scraper - INFO - Fetching product data for SKU T441-18457 from search page
+2025-03-06 19:46:25,325 - ktw_scraper - INFO - Fetching product data for SKU F131-46544 from search page
+2025-03-06 19:46:27,585 - ktw_scraper - INFO - Product info for SKU T441-18457: {'brand': 'TRUPER', 'sale_price': '216.69', 'regular_price': '233.00'}
+2025-03-06 19:46:27,586 - ktw_scraper - INFO - Found data for SKU T441-18457: {'sku': 'T441-18457', 'brand': 'TRUPER', 'stock_quantity': 5, 'sale_price': '216.69', 'regular_price': '233.00', 'stock_status': 1}
+2025-03-06 19:46:27,862 - ktw_scraper - INFO - Product info for SKU T441-18457: {'brand': 'TRUPER', 'sale_price': '216.69', 'regular_price': '233.00'}
+2025-03-06 19:46:27,958 - ktw_scraper - INFO - Product info for SKU B131-0004: {'brand': 'BARCO', 'sale_price': '908.61', 'regular_price': '977.00'}
+2025-03-06 19:46:27,968 - ktw_scraper - INFO - Found data for SKU T441-18457: {'sku': 'T441-18457', 'brand': 'TRUPER', 'stock_quantity': 5, 'sale_price': '216.69', 'regular_price': '233.00', 'stock_status': 1}
+2025-03-06 19:46:27,969 - ktw_scraper - INFO - Found data for SKU B131-0004: {'sku': 'B131-0004', 'brand': 'BARCO', 'stock_quantity': 0, 'sale_price': '908.61', 'regular_price': '977.00', 'stock_status': 0}
+2025-03-06 20:11:45,811 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 20:13:37,733 - ktw_scraper - INFO - Checking stock for SKU: D011-1400
+2025-03-06 20:13:37,733 - ktw_scraper - INFO - Checking stock for SKU: B131-0004
+2025-03-06 20:13:37,734 - ktw_scraper - INFO - Checking stock for SKU: T441-18457
+2025-03-06 20:13:37,734 - ktw_scraper - INFO - Checking stock for SKU: E061-4685
+2025-03-06 20:13:37,735 - ktw_scraper - INFO - Checking stock for SKU: T441-18457
+2025-03-06 20:13:37,736 - ktw_scraper - INFO - Checking stock for SKU: F131-46544
+2025-03-06 20:13:38,480 - ktw_scraper - INFO - Fetching product data for SKU D011-1400 from search page
+2025-03-06 20:13:39,932 - ktw_scraper - INFO - Fetching product data for SKU T441-18457 from search page
+2025-03-06 20:13:39,970 - ktw_scraper - INFO - Fetching product data for SKU B131-0004 from search page
+2025-03-06 20:13:39,992 - ktw_scraper - INFO - Fetching product data for SKU T441-18457 from search page
+2025-03-06 20:13:40,050 - ktw_scraper - INFO - Fetching product data for SKU E061-4685 from search page
+2025-03-06 20:13:40,250 - ktw_scraper - INFO - Fetching product data for SKU F131-46544 from search page
+2025-03-06 20:13:41,641 - ktw_scraper - INFO - Product info for SKU T441-18457: {'brand': 'TRUPER', 'sale_price': '216.69', 'regular_price': '233.00'}
+2025-03-06 20:13:41,671 - ktw_scraper - INFO - Found data for SKU T441-18457: {'sku': 'T441-18457', 'brand': 'TRUPER', 'stock_quantity': 5, 'sale_price': '216.69', 'regular_price': '233.00', 'stock_status': 1}
+2025-03-06 20:13:41,741 - ktw_scraper - INFO - Product info for SKU T441-18457: {'brand': 'TRUPER', 'sale_price': '216.69', 'regular_price': '233.00'}
+2025-03-06 20:13:41,781 - ktw_scraper - INFO - Product info for SKU B131-0004: {'brand': 'BARCO', 'sale_price': '908.61', 'regular_price': '977.00'}
+2025-03-06 20:13:41,781 - ktw_scraper - INFO - Found data for SKU T441-18457: {'sku': 'T441-18457', 'brand': 'TRUPER', 'stock_quantity': 5, 'sale_price': '216.69', 'regular_price': '233.00', 'stock_status': 1}
+2025-03-06 20:13:41,782 - ktw_scraper - INFO - Found data for SKU B131-0004: {'sku': 'B131-0004', 'brand': 'BARCO', 'stock_quantity': 0, 'sale_price': '908.61', 'regular_price': '977.00', 'stock_status': 0}
+2025-03-06 21:08:52,353 - ktw_scraper - INFO - Checking stock for SKU: E061-3216
+2025-03-06 21:08:53,566 - ktw_scraper - INFO - Fetching product data for SKU E061-3216 from search page
+2025-03-06 21:12:38,708 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:12:54,954 - ktw_scraper - INFO - Logging for xconfig: {'OTHER_BRAND_DC_RATIO': 0.99, 'SP_BRAND_DC_RATIO': {'polo': 0.98, 'jasic': 0.99, 'valu': 0.97, 'wd40': 0.72, 'marathon': 0.99, 'force': 0.99, 'ebara': 0.97, 'makita': 0.93, 'karcher': 0.99, 'novo': 0.95}}
+2025-03-06 21:12:54,955 - ktw_scraper - INFO - Checking stock for SKU: E061-3216
+2025-03-06 21:12:56,502 - ktw_scraper - INFO - Fetching product data for SKU E061-3216 from search page
+2025-03-06 21:13:59,001 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:14:21,403 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:14:29,121 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:17:48,868 - ktw_scraper - INFO - Logging for xconfig: {'OTHER_BRAND_DC_RATIO': 0.99, 'SP_BRAND_DC_RATIO': {'polo': 0.98, 'jasic': 0.99, 'valu': 0.97, 'wd40': 0.72, 'marathon': 0.99, 'force': 0.99, 'ebara': 0.97, 'makita': 0.93, 'karcher': 0.99, 'novo': 0.95}}
+2025-03-06 21:17:48,868 - ktw_scraper - INFO - Checking stock for SKU: E061-3216
+2025-03-06 21:17:49,788 - ktw_scraper - INFO - Fetching product data for SKU E061-3216 from search page
+2025-03-06 21:18:42,637 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:18:53,049 - ktw_scraper - INFO - Logging for xconfig: {'OTHER_BRAND_DC_RATIO': 0.99, 'SP_BRAND_DC_RATIO': {'polo': 0.98, 'jasic': 0.99, 'valu': 0.97, 'wd40': 0.72, 'marathon': 0.99, 'force': 0.99, 'ebara': 0.97, 'makita': 0.93, 'karcher': 0.99, 'novo': 0.95}}
+2025-03-06 21:18:53,049 - ktw_scraper - INFO - Checking stock for SKU: E061-3216
+2025-03-06 21:18:54,102 - ktw_scraper - INFO - Fetching product data for SKU E061-3216 from search page
+2025-03-06 21:19:45,898 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:19:58,821 - ktw_scraper - INFO - Logging for xconfig: {'OTHER_BRAND_DC_RATIO': 0.99, 'SP_BRAND_DC_RATIO': {'polo': 0.98, 'jasic': 0.99, 'valu': 0.97, 'wd40': 0.72, 'marathon': 0.99, 'force': 0.99, 'ebara': 0.97, 'makita': 0.93, 'karcher': 0.99, 'novo': 0.95}}
+2025-03-06 21:19:58,822 - ktw_scraper - INFO - Checking stock for SKU: E061-3216
+2025-03-06 21:20:00,168 - ktw_scraper - INFO - Fetching product data for SKU E061-3216 from search page
+2025-03-06 21:20:27,742 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:20:38,637 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:20:53,622 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:21:04,991 - ktw_scraper - INFO - Logging for xconfig: {'OTHER_BRAND_DC_RATIO': 0.99, 'SP_BRAND_DC_RATIO': {'polo': 0.98, 'jasic': 0.99, 'valu': 0.97, 'wd40': 0.72, 'marathon': 0.99, 'force': 0.99, 'ebara': 0.97, 'makita': 0.93, 'karcher': 0.99, 'novo': 0.95}}
+2025-03-06 21:21:04,991 - ktw_scraper - INFO - Checking stock for SKU: E061-3216
+2025-03-06 21:21:06,700 - ktw_scraper - INFO - Fetching product data for SKU E061-3216 from search page
+2025-03-06 21:22:42,460 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:23:03,160 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:23:09,582 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:23:30,188 - ktw_scraper - INFO - Logging for xconfig: {'OTHER_BRAND_DC_RATIO': 0.99, 'SP_BRAND_DC_RATIO': {'polo': 0.98, 'jasic': 0.99, 'valu': 0.97, 'wd40': 0.72, 'marathon': 0.99, 'force': 0.99, 'ebara': 0.97, 'makita': 0.93, 'karcher': 0.99, 'novo': 0.95}}
+2025-03-06 21:23:30,189 - ktw_scraper - INFO - Checking stock for SKU: E061-3216
+2025-03-06 21:23:30,956 - ktw_scraper - INFO - Fetching product data for SKU E061-3216 from search page
+2025-03-06 21:23:57,390 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:25:08,879 - ktw_scraper - INFO - Logging for xconfig: {'OTHER_BRAND_DC_RATIO': 0.99, 'SP_BRAND_DC_RATIO': {'polo': 0.98, 'jasic': 0.99, 'valu': 0.97, 'wd40': 0.72, 'marathon': 0.99, 'force': 0.99, 'ebara': 0.97, 'makita': 0.93, 'karcher': 0.99, 'novo': 0.95}}
+2025-03-06 21:25:08,879 - ktw_scraper - INFO - Checking stock for SKU: E061-3216
+2025-03-06 21:25:10,293 - ktw_scraper - INFO - Fetching product data for SKU E061-3216 from search page
+2025-03-06 21:25:11,473 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:26:19,821 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:26:33,301 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:26:45,411 - ktw_scraper - INFO - Logging for xconfig: {'OTHER_BRAND_DC_RATIO': 0.99, 'SP_BRAND_DC_RATIO': {'polo': 0.98, 'jasic': 0.99, 'valu': 0.97, 'wd40': 0.72, 'marathon': 0.99, 'force': 0.99, 'ebara': 0.97, 'makita': 0.93, 'karcher': 0.99, 'novo': 0.95}}
+2025-03-06 21:26:45,411 - ktw_scraper - INFO - Checking stock for SKU: E061-3216
+2025-03-06 21:26:46,602 - ktw_scraper - INFO - Fetching product data for SKU E061-3216 from search page
+2025-03-06 21:28:06,293 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:28:59,651 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:29:20,385 - ktw_scraper - INFO - Logging for xconfig: {'OTHER_BRAND_DC_RATIO': 0.99, 'SP_BRAND_DC_RATIO': {'polo': 0.98, 'jasic': 0.99, 'valu': 0.97, 'wd40': 0.72, 'marathon': 0.99, 'force': 0.99, 'ebara': 0.97, 'makita': 0.93, 'karcher': 0.99, 'novo': 0.95}}
+2025-03-06 21:29:20,385 - ktw_scraper - INFO - Checking stock for SKU: E061-3216
+2025-03-06 21:29:21,566 - ktw_scraper - INFO - Fetching product data for SKU E061-3216 from search page
+2025-03-06 21:29:23,254 - ktw_scraper - ERROR - Error checking stock for SKU E061-3216: name 'apply_discount' is not defined
+2025-03-06 21:29:42,653 - ktw_scraper - INFO - Logging for xconfig: {'OTHER_BRAND_DC_RATIO': 0.99, 'SP_BRAND_DC_RATIO': {'polo': 0.98, 'jasic': 0.99, 'valu': 0.97, 'wd40': 0.72, 'marathon': 0.99, 'force': 0.99, 'ebara': 0.97, 'makita': 0.93, 'karcher': 0.99, 'novo': 0.95}}
+2025-03-06 21:29:42,653 - ktw_scraper - INFO - Checking stock for SKU: E061-3216
+2025-03-06 21:29:43,779 - ktw_scraper - INFO - Fetching product data for SKU E061-3216 from search page
+2025-03-06 21:29:44,844 - ktw_scraper - ERROR - Error checking stock for SKU E061-3216: name 'apply_discount' is not defined
+2025-03-06 21:30:25,636 - ktw_scraper - INFO - Logging for xconfig: {'OTHER_BRAND_DC_RATIO': 0.99, 'SP_BRAND_DC_RATIO': {'polo': 0.98, 'jasic': 0.99, 'valu': 0.97, 'wd40': 0.72, 'marathon': 0.99, 'force': 0.99, 'ebara': 0.97, 'makita': 0.93, 'karcher': 0.99, 'novo': 0.95}}
+2025-03-06 21:30:25,636 - ktw_scraper - INFO - Checking stock for SKU: E061-3216
+2025-03-06 21:30:26,956 - ktw_scraper - INFO - Fetching product data for SKU E061-3216 from search page
+2025-03-06 21:30:28,048 - ktw_scraper - ERROR - Error checking stock for SKU E061-3216: name 'apply_discount' is not defined
+2025-03-06 21:30:37,235 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:30:47,712 - ktw_scraper - INFO - Logging for xconfig: {'OTHER_BRAND_DC_RATIO': 0.99, 'SP_BRAND_DC_RATIO': {'polo': 0.98, 'jasic': 0.99, 'valu': 0.97, 'wd40': 0.72, 'marathon': 0.99, 'force': 0.99, 'ebara': 0.97, 'makita': 0.93, 'karcher': 0.99, 'novo': 0.95}}
+2025-03-06 21:30:47,712 - ktw_scraper - INFO - Checking stock for SKU: E061-3216
+2025-03-06 21:30:48,523 - ktw_scraper - INFO - Fetching product data for SKU E061-3216 from search page
+2025-03-06 21:30:49,789 - ktw_scraper - ERROR - Error checking stock for SKU E061-3216: name 'apply_discount' is not defined
+2025-03-06 21:32:16,596 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:32:37,318 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:32:47,524 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:34:22,423 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:36:26,492 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:36:34,474 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:36:43,982 - ktw_scraper - INFO - Successfully loaded xconfig from D:\ProjectCoding\ktw_realtime_call_python\xconfig.json
+2025-03-06 21:36:43,982 - ktw_scraper - INFO - Checking stock for SKU: E061-3216
+2025-03-06 21:36:44,816 - ktw_scraper - INFO - Fetching product data for SKU E061-3216 from search page
+2025-03-06 21:36:46,647 - ktw_scraper - INFO - Original price: 77264.4
+2025-03-06 21:36:46,656 - ktw_scraper - INFO - Discounted price: 76491.76
+2025-03-06 21:37:11,648 - ktw_scraper - INFO - Attempting initial login...
+2025-03-06 21:37:24,706 - ktw_scraper - INFO - Successfully loaded xconfig from D:\ProjectCoding\ktw_realtime_call_python\xconfig.json
+2025-03-06 21:37:24,706 - ktw_scraper - INFO - Checking stock for SKU: E061-3216
+2025-03-06 21:37:26,349 - ktw_scraper - INFO - Fetching product data for SKU E061-3216 from search page
+2025-03-06 21:37:27,676 - ktw_scraper - INFO - Original price: 77264.4
+2025-03-06 21:37:27,681 - ktw_scraper - INFO - Discounted price: 76491.76
+2025-03-06 21:50:31,476 - ktw_scraper - INFO - Attempting initial login...

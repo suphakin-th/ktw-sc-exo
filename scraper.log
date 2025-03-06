@@ -1,0 +1,101 @@
+2025-03-06 07:04:05,792 - __main__ - INFO - Attempting initial login...
+2025-03-06 07:04:07,705 - __main__ - ERROR - Verify login error: 'str' object has no attribute 'path'
+2025-03-06 07:04:07,765 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.136:5000
+2025-03-06 07:04:07,765 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-06 07:04:19,404 - werkzeug - INFO - 127.0.0.1 - - [06/Mar/2025 07:04:19] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-06 07:04:19,827 - werkzeug - INFO - 127.0.0.1 - - [06/Mar/2025 07:04:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-06 07:05:53,005 - __main__ - INFO - Processing request for SKU: SKU001
+2025-03-06 07:05:55,541 - __main__ - INFO - Not logged in, attempting login
+2025-03-06 07:05:56,095 - __main__ - ERROR - Verify login error: 'str' object has no attribute 'path'
+2025-03-06 07:05:56,096 - __main__ - ERROR - Login failed
+2025-03-06 07:05:56,096 - werkzeug - INFO - 127.0.0.1 - - [06/Mar/2025 07:05:56] "[35m[1mGET /api/product/SKU001 HTTP/1.1[0m" 500 -
+2025-03-06 07:05:56,834 - __main__ - INFO - Processing request for SKU: SKU001
+2025-03-06 07:05:57,291 - __main__ - INFO - Not logged in, attempting login
+2025-03-06 07:05:57,791 - __main__ - ERROR - Verify login error: 'str' object has no attribute 'path'
+2025-03-06 07:05:57,792 - __main__ - ERROR - Login failed
+2025-03-06 07:05:57,792 - werkzeug - INFO - 127.0.0.1 - - [06/Mar/2025 07:05:57] "[35m[1mGET /api/product/SKU001 HTTP/1.1[0m" 500 -
+2025-03-06 07:09:34,887 - __main__ - INFO - Attempting initial login...
+2025-03-06 07:09:44,359 - __main__ - ERROR - Verify login error: 'str' object has no attribute 'path'
+2025-03-06 07:09:44,375 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.136:5000
+2025-03-06 07:09:44,376 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-06 07:09:59,426 - __main__ - INFO - Processing request for SKU: SKU001
+2025-03-06 07:10:02,304 - __main__ - INFO - Checking stock for SKU: SKU001
+2025-03-06 07:10:02,837 - __main__ - INFO - Found data for SKU SKU001: {'sku': 'SKU001', 'brand': '', 'stock_quantity': 0, 'sale_price': '', 'regular_price': '', 'stock_status': 0}
+2025-03-06 07:10:02,837 - __main__ - INFO - Request processed in 3.41 seconds
+2025-03-06 07:10:02,838 - werkzeug - INFO - 127.0.0.1 - - [06/Mar/2025 07:10:02] "GET /api/product/SKU001 HTTP/1.1" 200 -
+2025-03-06 07:10:55,597 - __main__ - INFO - Processing request for SKU: E061-3216
+2025-03-06 07:10:59,432 - __main__ - INFO - Checking stock for SKU: E061-3216
+2025-03-06 07:11:00,717 - __main__ - INFO - Found data for SKU E061-3216: {'sku': 'E061-3216', 'brand': '', 'stock_quantity': 1, 'sale_price': '', 'regular_price': '', 'stock_status': 1}
+2025-03-06 07:11:00,718 - __main__ - INFO - Request processed in 5.12 seconds
+2025-03-06 07:11:00,718 - werkzeug - INFO - 127.0.0.1 - - [06/Mar/2025 07:11:00] "GET /api/product/E061-3216 HTTP/1.1" 200 -
+2025-03-06 07:11:32,865 - __main__ - INFO - Attempting initial login...
+2025-03-06 07:11:38,844 - __main__ - ERROR - Verify login error: 'str' object has no attribute 'path'
+2025-03-06 07:11:38,857 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.136:5000
+2025-03-06 07:11:38,857 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-06 07:11:41,684 - __main__ - INFO - Processing request for SKU: E061-3216
+2025-03-06 07:11:44,133 - __main__ - INFO - Checking stock for SKU: E061-3216
+2025-03-06 07:11:44,885 - __main__ - INFO - Found data for SKU E061-3216: {'sku': 'E061-3216', 'brand': '', 'stock_quantity': 1, 'sale_price': '', 'regular_price': '', 'stock_status': 1}
+2025-03-06 07:11:44,886 - __main__ - INFO - Request processed in 3.20 seconds
+2025-03-06 07:11:44,886 - werkzeug - INFO - 127.0.0.1 - - [06/Mar/2025 07:11:44] "GET /api/product/E061-3216 HTTP/1.1" 200 -
+2025-03-06 07:19:51,817 - __main__ - INFO - Attempting initial login...
+2025-03-06 07:19:57,952 - __main__ - ERROR - Verify login error: 'str' object has no attribute 'path'
+2025-03-06 07:19:57,964 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.136:5000
+2025-03-06 07:19:57,964 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-06 07:20:04,083 - __main__ - INFO - Processing request for SKU: E061-3216
+2025-03-06 07:20:06,664 - __main__ - INFO - Checking stock for SKU: E061-3216
+2025-03-06 07:20:07,706 - __main__ - INFO - Fetching price data for SKU E061-3216 from search page
+2025-03-06 07:20:09,111 - __main__ - INFO - Price data for SKU E061-3216: {'sale_price': '77,264.40', 'regular_price': '83,080.00'}
+2025-03-06 07:20:09,111 - __main__ - INFO - Found data for SKU E061-3216: {'sku': 'E061-3216', 'brand': '', 'stock_quantity': 1, 'sale_price': '77,264.40', 'regular_price': '83,080.00', 'stock_status': 1}
+2025-03-06 07:20:09,111 - __main__ - INFO - Request processed in 5.03 seconds
+2025-03-06 07:20:09,112 - werkzeug - INFO - 127.0.0.1 - - [06/Mar/2025 07:20:09] "GET /api/product/E061-3216 HTTP/1.1" 200 -
+2025-03-06 07:24:38,756 - __main__ - INFO - Processing request for SKU: E061-3216
+2025-03-06 07:24:43,363 - __main__ - INFO - Request processed in 4.61 seconds
+2025-03-06 07:24:43,364 - werkzeug - INFO - 127.0.0.1 - - [06/Mar/2025 07:24:43] "GET /api/product/E061-3216 HTTP/1.1" 200 -
+2025-03-06 07:26:11,949 - __main__ - INFO - Processing request for SKU: E061-3216
+2025-03-06 07:26:16,586 - __main__ - INFO - Request processed in 4.64 seconds
+2025-03-06 07:26:16,587 - werkzeug - INFO - 127.0.0.1 - - [06/Mar/2025 07:26:16] "GET /api/product/E061-3216 HTTP/1.1" 200 -
+2025-03-06 07:28:35,570 - __main__ - INFO - Attempting initial login...
+2025-03-06 07:28:42,636 - __main__ - ERROR - Verify login error: 'str' object has no attribute 'path'
+2025-03-06 07:28:42,648 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.136:5000
+2025-03-06 07:28:42,648 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-06 07:28:43,897 - __main__ - INFO - Processing request for SKU: E061-3216
+2025-03-06 07:28:45,878 - __main__ - INFO - Checking stock for SKU: E061-3216
+2025-03-06 07:28:47,825 - __main__ - INFO - Fetching product data for SKU E061-3216 from search page
+2025-03-06 07:28:50,710 - __main__ - INFO - Request processed in 6.81 seconds
+2025-03-06 07:28:50,711 - werkzeug - INFO - 127.0.0.1 - - [06/Mar/2025 07:28:50] "GET /api/product/E061-3216 HTTP/1.1" 200 -
+2025-03-06 07:34:23,507 - __main__ - INFO - Processing request for 6 SKUs with 6 workers
+2025-03-06 07:34:30,088 - __main__ - INFO - Checking stock for SKU: D011-1400
+2025-03-06 07:34:30,088 - __main__ - INFO - Checking stock for SKU: B131-0004
+2025-03-06 07:34:30,088 - __main__ - INFO - Checking stock for SKU: T441-18457
+2025-03-06 07:34:30,089 - __main__ - INFO - Checking stock for SKU: E061-4685
+2025-03-06 07:34:30,090 - __main__ - INFO - Checking stock for SKU: T441-18457
+2025-03-06 07:34:30,091 - __main__ - INFO - Checking stock for SKU: F131-46544
+2025-03-06 07:34:31,386 - __main__ - INFO - Fetching product data for SKU B131-0004 from search page
+2025-03-06 07:34:32,323 - __main__ - INFO - Fetching product data for SKU F131-46544 from search page
+2025-03-06 07:34:32,326 - __main__ - INFO - Fetching product data for SKU D011-1400 from search page
+2025-03-06 07:34:32,376 - __main__ - INFO - Fetching product data for SKU T441-18457 from search page
+2025-03-06 07:34:32,408 - __main__ - INFO - Fetching product data for SKU T441-18457 from search page
+2025-03-06 07:34:32,529 - __main__ - INFO - Fetching product data for SKU E061-4685 from search page
+2025-03-06 07:34:32,624 - __main__ - INFO - Product info for SKU B131-0004: {'brand': 'BARCO', 'sale_price': '908.61', 'regular_price': '977.00'}
+2025-03-06 07:34:32,624 - __main__ - INFO - Found data for SKU B131-0004: {'sku': 'B131-0004', 'brand': 'BARCO', 'stock_quantity': 0, 'sale_price': '908.61', 'regular_price': '977.00', 'stock_status': 0}
+2025-03-06 07:34:33,998 - __main__ - INFO - Product info for SKU T441-18457: {'brand': 'TRUPER', 'sale_price': '216.69', 'regular_price': '233.00'}
+2025-03-06 07:34:34,050 - __main__ - INFO - Product info for SKU T441-18457: {'brand': 'TRUPER', 'sale_price': '216.69', 'regular_price': '233.00'}
+2025-03-06 07:34:34,134 - __main__ - INFO - Found data for SKU T441-18457: {'sku': 'T441-18457', 'brand': 'TRUPER', 'stock_quantity': 5, 'sale_price': '216.69', 'regular_price': '233.00', 'stock_status': 1}
+2025-03-06 07:34:34,134 - __main__ - INFO - Found data for SKU T441-18457: {'sku': 'T441-18457', 'brand': 'TRUPER', 'stock_quantity': 5, 'sale_price': '216.69', 'regular_price': '233.00', 'stock_status': 1}
+2025-03-06 07:34:34,149 - __main__ - INFO - Request processed in 10.64 seconds
+2025-03-06 07:34:34,151 - werkzeug - INFO - 127.0.0.1 - - [06/Mar/2025 07:34:34] "POST /api/products HTTP/1.1" 200 -
