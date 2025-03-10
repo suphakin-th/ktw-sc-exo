@@ -114,7 +114,7 @@ All API endpoints (except `/health`) require authentication using Basic Auth.
 
 Example:
 ```
-Authorization: Basic c2hvcF9tYW5hZ2VyMTooTFBySW0mKWdJcTk1N1VoMUQxdTF3d28=
+Authorization: Basic token
 ```
 
 ### Response Format
